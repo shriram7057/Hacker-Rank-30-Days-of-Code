@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HR%2030%20Days%20of%20Code%20Badge.png?raw=true" width="140" />
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HR%20logo%20GH.jpeg?raw=true" width="280"/>
+</p>
 <h1 align="center">🚀 HackerRank – 30 Days of Code</h1>
 
 <p align="center">
