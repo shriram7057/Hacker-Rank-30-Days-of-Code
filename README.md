@@ -4,6 +4,8 @@
 </p>
 <h1 align="center">🚀 HackerRank – 30 Days of Code</h1>
 
+
+
 <p align="center">
 A complete collection of solutions for the <b>HackerRank 30 Days of Code</b> challenge, implemented using <b>C++</b> and <b>Python</b>.
 </p>
@@ -64,6 +66,29 @@ A complete collection of solutions for the <b>HackerRank 30 Days of Code</b> cha
 </table>
 
 <hr/>
+
+## 🧑‍💻𝗣𝗿𝗶𝗺𝗮𝗿𝘆 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
+
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=c" width="48"/><br/>
+      <b>C</b>
+    </td>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/>
+      <b>C++</b>
+    </td>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=java" width="48"/><br/>
+      <b>Java</b>
+    </td>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
+      <b>Python</b>
+    </td>
+  </tr>
+</table>
 
 <h2>📁 Repository Structure</h2>
 <table border="1" cellpadding="8" cellspacing="0" width="100%">
